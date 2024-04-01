@@ -1,4 +1,4 @@
-![image](https://github.com/iniyasri4464/FindMaximum/assets/152419072/2d280fda-4e39-4236-909a-e80b609739c9)# Find the maximum of a list of numbers
+
 ## Aim:
 To write a program to find the maximum of a list of numbers.
 ## Equipment’s required:
