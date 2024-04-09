@@ -43,11 +43,14 @@ def max_marks(marks):
 
 
 ## Output:
-![image](https://github.com/iniyasri4464/FindMaximum/assets/152419072/48a4843f-3c3e-41ba-8333-50f8dcce0933)
-![image](https://github.com/iniyasri4464/FindMaximum/assets/152419072/1c879da6-7654-47d8-98c6-ba72c5199800)
-![image](https://github.com/iniyasri4464/FindMaximum/assets/152419072/edc4982e-efa4-4db2-ba47-698794bc74aa)
+i)
+![alt text](<WhatsApp Image 2024-04-09 at 5.55.35 PM.jpeg>)
 
+ii)
+![alt text](<WhatsApp Image 2024-04-09 at 5.57.29 PM.jpeg>)
 
+iii)
+![alt text](<WhatsApp Image 2024-04-09 at 5.57.15 PM.jpeg>)
 
 ## Result:
 Thus the program to find the maximum of given numbers from the list is written and verified using python programming.
